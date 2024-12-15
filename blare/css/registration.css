@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(to bottom , #D3F1DF 43%, #85A98F 71%, #5A6C57 86%, #525B44 100%);
+
+       
+    }
+ .rounded {
+    width: 500px;
+    padding: 10px;
+    background: white;
+}   
+
+
+.form-floating{
+width: 480px;
+margin-bottom: 5px;
+box-sizing: border-box;
+
+} 
+.form-control {
+margin: 0%;
+border: 1px solid #000000;
+
+}
+
+.for-btn {
+background: #160202;
+width: 80%;
+margin-left: 10%;
+}
+.cursor-pointer{
+cursor: pointer;
+}
+.show_hide_text {
+position: absolute;
+bottom: 29%;
+right: 10%;
+font-size: 15px;
+}

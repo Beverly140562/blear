@@ -1,0 +1,39 @@
+body {
+    background: linear-gradient(to bottom , #D3F1DF 43%, #85A98F 71%, #5A6C57 86%, #525B44 100%);
+    padding: 10px 10px;
+  }
+  
+img {
+max-width: 600px;
+margin:0 auto;
+margin-bottom: 6%;
+
+
+}
+.container {
+max-width: 550px;
+margin-bottom: 8.9%;
+
+
+}
+.form-floating {
+margin-bottom: 30px;
+
+}
+.form-control {
+margin: 0;
+border: 1px solid #000000;
+
+}
+.form-btn {
+background: #160202;
+}
+.cursor-pointer{
+cursor: pointer;
+}
+.show_hide_text {
+position: absolute;
+top: 33.5%;
+right: 10%;
+font-size: 15px;
+}
